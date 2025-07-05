@@ -19,14 +19,13 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/ns2068062" target="blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/hackerrank-3629285-3031765.png" alt="HackerRank" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  <a href="https://www.codingninjas.com/studio/profile/_nehasingh1_" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Coding_Ninjas_Logo.png" alt="Coding Ninjas" height="30" width="40" style="border-radius: 8px;" />
+   <a href="https://www.codingninjas.com/studio/profile/_nehasingh1_" target="blank">
+    <img align="center" src="https://static.theprint.in/wp-content/uploads/2021/11/coding-ninjas-announces-coding-competition-code-kaze.jpg" alt="Coding Ninjas" height="30" width="40" style="border-radius:6px;"/>
   </a>
 </p>
 
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
