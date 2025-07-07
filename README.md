@@ -1,74 +1,78 @@
 <h1 align="center">Hi 👋, I'm Neha Kumari</h1>
-<h3 align="center">Passionate Full Stack Developer | Crafting user-first web experiences 🚀</h3>
+<h3 align="center">🌟 Passionate Full Stack Developer | Crafting user-first web experiences 🚀</h3>
 
-- 🌱 I’m currently learning **React Native, Next.js, Web3, and Deep Learning with TensorFlow & PyTorch**
-- 📫 How to reach me: **ns2068062@gmail.com**
-- ⚡ Fun fact: *I love building bots that chat with each other… and sometimes with me 🤖💬*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+|+Java+|+Python+🌸;Building+with+Next.js+and+Web3+🌐;Open+to+Exciting+Collaborations+🤝" alt="Typing SVG" />
+</p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/neha-kumari-8920nk46/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/nehakumari_1/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/_nehasingh1_/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/ns2068062" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-   <a href="https://www.codingninjas.com/studio/profile/_nehasingh1_" target="blank">
-    <img align="center" src="https://static.theprint.in/wp-content/uploads/2021/11/coding-ninjas-announces-coding-competition-code-kaze.jpg" alt="Coding Ninjas" height="30" width="40" style="border-radius:6px;"/>
-  </a>
-</p>
+### 🌱 About Me
+- 🚀 I’m currently exploring **React Native, Next.js, Web3, and Deep Learning with TensorFlow & PyTorch**
+- 📫 Reach me at: **ns2068062@gmail.com**
+- 💬 Fun Fact: *I love building bots that chat with each other… and sometimes with me 🤖💬*
+- 🎯 Goal 2025: Crack top tech placements & contribute to open-source at scale.
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🌐 Connect With Me
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/neha-kumari-8920nk46/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <a href="https://leetcode.com/nehakumari_1/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <a href="https://www.geeksforgeeks.org/user/_nehasingh1_/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <a href="https://www.hackerrank.com/ns2068062" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <a href="https://www.codingninjas.com/studio/profile/_nehasingh1_" target="_blank">
+    <img src="https://img.shields.io/badge/Coding Ninjas-FF5722?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Coding Ninjas"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehasingh-1&show_icons=true&locale=en&layout=compact" alt="nehasingh-1" /></p>
+### 💻 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,postgres,java,python,git,github,tensorflow,pytorch,figma,vscode&perline=8" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nehasingh-1&show_icons=true&locale=en" alt="nehasingh-1" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nehasingh-1&" alt="nehasingh-1" /></p>
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nehasingh-1&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehasingh-1&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehasingh-1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nehasingh-1&theme=onedark&row=2&column=3" alt="Trophies" />
+</p>
+
+---
+
+### 🔥 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nehasingh-1&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🎵 Now Playing
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31lmk7t2gzw2nvvuivkwjs5epkam&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+</p>
