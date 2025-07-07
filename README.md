@@ -9,17 +9,17 @@
 
 <p align="center">
   <a href="https://github.com/nehasingh-1">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=Full+Stack+Developer+💻;MERN+Stack+|+Java+|+Python+🌸;Building+Next.js+and+Web3+apps+🌐;Open+to+Exciting+Collaborations+🤝" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;MERN+Stack+|+Java+|+Python+🌸;Next.js+and+Web3+Enthusiast+🌐;Open+to+Exciting+Collaborations+🤝" alt="Typing Animation" />
   </a>
 </p>
 
 ---
 
-### 🌟 About Me
-- 🌱 I’m learning **React Native, Next.js, Web3, and Deep Learning**
+### 🌱 About Me
+- 🚀 Currently learning **React Native, Next.js, Web3, TensorFlow & PyTorch**
 - 📫 Reach me at: **ns2068062@gmail.com**
-- 🎯 2025 Goal: Crack top tech placements & contribute to open-source 💡
-- 🤖 Fun Fact: *I love building bots that chat with each other!*
+- 💬 Fun Fact: *I love building bots that chat with each other! 🤖*
+- 🎯 2025 Goal: Top tech placements & open-source contributions.
 
 ---
 
@@ -44,14 +44,14 @@
 
 ---
 
-### 🚀 Tech Stack
+### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,postgres,java,python,git,github,tensorflow,pytorch,figma,vscode&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,postgres,java,python,git,github,tensorflow,pytorch,vscode,figma&perline=8" alt="Tech Stack" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nehasingh-1&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
 </p>
@@ -66,28 +66,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nehasingh-1&theme=algolia&no-bg=true&no-frame=true&row=2&column=3" alt="Trophies" />
-</p>
-
----
-
-### 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nehasingh-1/nehasingh-1/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
-
-### 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nehasingh-1&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
-### 🎵 Now Playing on Spotify
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31lmk7t2gzw2nvvuivkwjs5epkam&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="Now Playing Spotify" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nehasingh-1&theme=algolia&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ---
