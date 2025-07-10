@@ -46,7 +46,7 @@
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,java,python,git,github,tensorflow,vscode,figma&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,java,python,git,github,tensorflow,vscode&perline=8" alt="Tech Stack" />
 </p>
 
 ---
