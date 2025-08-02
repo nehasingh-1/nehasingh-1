@@ -1,27 +1,32 @@
+<!-- Header GIF + Name -->
 <h1 align="center">
-  Hi 👋, I'm Neha Kumari
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hi there! 👋 I'm <span style="color:#ff69b4">Neha Kumari</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 </h1>
 
-<h3 align="center">
-  🌸 Passionate Full Stack Developer | Crafting user-first web experiences 🚀
-</h3>
-
 <p align="center">
-  <a href="https://github.com/nehasingh-1">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;MERN+Stack+|+Java+|+Python+🌸;Next.js+and+Web3+Enthusiast+🌐;Open+to+Exciting+Collaborations+🤝" alt="Typing Animation" />
-  </a>
+  🌸 Full Stack Developer | Problem Solver | Open Source Enthusiast | Future Tech Leader 🚀
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=🌟+MERN+Stack+Developer;⚡+Next.js+%7C+Java+%7C+Python+Enthusiast;🔥+React+Native+%7C+TensorFlow+%7C+Web3+Learner;💬+Let's+Collaborate+and+Create+Awesome+Projects!" />
 </p>
 
 ---
 
-### 🌱 About Me
-- 🚀 Currently learning **React Native, Next.js, Web3, TensorFlow & PyTorch**
-- 📫 Reach me at: **ns2068062@gmail.com**
-- 💬 Fun Fact: *I love building bots that chat with each other! 🤖*
-- 🎯 2025 Goal: Top tech placements & open-source contributions.
-
----
+## 🙋‍♀️ About Me
+Name: Neha Kumari
+🎓 Background: B.Tech in Computer Science
+🔭 Current Focus:
+  - React Native
+  - Next.js & Web3
+  - TensorFlow & PyTorch
+📬 Email: ns2068062@gmail.com
+🎯 2025 Goals:
+  - Join a top tech company 💼
+  - Contribute to open source 🌍
+🧠 Fun Fact: I build bots that chat with each other 🤖
 
 ### 🌐 Connect With Me
 <p align="center">
@@ -42,36 +47,13 @@
   </a>
 </p>
 
----
-
-### 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,java,python,git,github,tensorflow,vscode&perline=8" alt="Tech Stack" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nehasingh-1&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehasingh-1&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehasingh-1&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nehasingh-1&theme=algolia&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
-
----
-
-### 👀 Visitor Counter
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nehasingh-1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+💻 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,java,python,tailwind,bootstrap,git,github,tensorflow,vscode&perline=9" /> </p>
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nehasingh-1&show_icons=true&theme=radical&border_radius=10&hide_border=true" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=nehasingh-1&theme=radical&hide_border=true" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehasingh-1&layout=compact&theme=radical&hide_border=true" /> </p>
+🔥 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nehasingh-1&theme=tokyo-night&area=true&hide_border=true" /> </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nehasingh-1&theme=onestar&no-frame=true&column=6" /> </p>
+👀 Profile Visitors
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nehasingh-1&label=Profile%20views&color=ff69b4&style=flat-square" /> </p> ```
